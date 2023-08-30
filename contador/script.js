@@ -16,7 +16,7 @@ console.log(number);
 function RESET(){
     number = 0;
     document.getElementById("number").innerHTML = number;
-    
+    break;
 }
 
 
