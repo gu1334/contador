@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    background-color: rgb(232, 232, 232);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color: rgb(34, 34, 150);
+    margin-top: 100px;
+    font-size: 3em;
+    
+}
+
+.number{
+    font-size: 4em;
+    margin: 70px;
+    padding: 20px;
+
+}
+
+
+
+.um{
+    
+    padding: 20px;
+    display: inline;
+    border: 1px rgb(200, 200, 200) solid;
+    cursor: pointer;
+}
+
+.um:hover{
+    background-color: rgb(222, 222, 222);
+}
